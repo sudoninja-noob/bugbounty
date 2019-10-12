@@ -25,7 +25,7 @@ https://portswigger.net/burp/communitydownload
 
 ## Desktop/embedded hacking tools
 
-IDA Pro and Hex-Rays Decompiler: IDA is the absolute gold standard for disassemblers and its decompiler plugins are the gold standard for decompilation. It is a wonderful tool with support for nearly every obscure platform and an extensive (if confusing) SDK to add nearly any feature you can imagine. However, its price makes it difficult to justify.
+**IDA Pro and Hex-Rays Decompiler:** IDA is the absolute gold standard for disassemblers and its decompiler plugins are the gold standard for decompilation. It is a wonderful tool with support for nearly every obscure platform and an extensive (if confusing) SDK to add nearly any feature you can imagine. However, its price makes it difficult to justify.
 **Hopper:** This is a fantastic, low-cost disassembler and decompiler that runs on macOS and Linux. While it's no replacement for IDA, it is a great choice for most applications.
 **Binary Ninja:** Another low-cost alternative to IDA. Its API is perhaps the most powerful of the three for automating analysis of code.
 **Radare2:** This is a set of tools for doing analysis of binaries. It includes everything from disassembly to debugging and more.
