@@ -5,16 +5,16 @@ Burp suite
 https://portswigger.net/burp/communitydownload
 
 ## web tool
-
-   **This is bold text** Burp Suite: This is the most popular proxy in web hacking circles due to its cross-platform nature and extensive featureset. See       our playlist to make the most of it.
-    mitmproxy: This is an open-source proxy written in Python. Not recommended for beginners, but this can be a powerful tool.
-    sqlmap: This allows for easy discovery and exploitation of SQL injection vulnerabilities. It will not catch every bug or even
+```
+   ** Burp Suite:** This is the most popular proxy in web hacking circles due to its cross-platform nature and extensive featureset. See       our playlist to make the most of it.
+    **mitmproxy:** This is an open-source proxy written in Python. Not recommended for beginners, but this can be a powerful tool.
+    **sqlmap:** This allows for easy discovery and exploitation of SQL injection vulnerabilities. It will not catch every bug or even
     be able to exploit some known SQLi bugs. What it will do is make your life much easier in the 80% of cases it will work for.
     SSL Labs Server Test: This is an easy to use webapp for testing the SSL configuration of web servers.
-    DirBuster: This is useful for finding hidden files and directories on web servers.
-    Nikto2: Like DirBuster, but also does some basic checks for known vulnerabilities.
-    lazyrecon: This is an assembled collection of tools for performing recon.
-
+    **DirBuster:** This is useful for finding hidden files and directories on web servers.
+    **Nikto2:** Like DirBuster, but also does some basic checks for known vulnerabilities.
+    **lazyrecon:** This is an assembled collection of tools for performing recon.
+```
 ## Mobie Haacking tool
 
 Burp Suite: This is the most popular proxy in web hacking circles due to its cross-platform nature and extensive featureset. See our playlist to make the most of it.
