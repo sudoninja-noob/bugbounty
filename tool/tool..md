@@ -38,3 +38,11 @@ https://portswigger.net/burp/communitydownload
 **GNU strings:** Finds strings in arbitrary binaries. While not strictly for reverse-engineering, it is among the most useful tools around.
 **HxD (Windows) 0xED (macOS):** These are graphical hex editors, useful for analysis and manipulation of files and block devices.
 **QEMU:** An emulator and virtual machine supporting a large number of systems/architectures. This makes it useful for things like running embedded firmware, but also includes debugging facilities that make it an optimal tool for hacking. Can be combined with AFL for fuzzing of binaries that aren't for your native architecture
+
+
+## Programming languages
+**Python and Ruby:** Useful for automation and quick testing and analysis, particularly for web hacking.
+**JavaScript:** Can be used for the same tasks as Python and Ruby (albeit with fewer relevant libraries), but mostly useful to know for analysis of code on the web, as well as exploitation.
+**Objective-C and Swift:** The ability to read these will be essential if you plan to do source code review of iOS applications.
+**Java and Kotlin:** The ability to read these will be essential if you plan to do source code review of Android applications. Java is produced by decompilers for Android applications, which allows you to read code (roughly) equivalent to the original source, even when you only have a compiled application.
+**AArch64 assembly:** For advanced embedded and mobile hacking, understanding the very lowest level of abstraction is essential.
