@@ -6,7 +6,7 @@ https://portswigger.net/burp/communitydownload
 
 ## web tool
 ```
-    Burp Suite: This is the most popular proxy in web hacking circles due to its cross-platform nature and extensive featureset. See our     playlist to make the most of it.
+    **Burp Suite** This is the most popular proxy in web hacking circles due to its cross-platform nature and extensive featureset. See       our playlist to make the most of it.
     mitmproxy: This is an open-source proxy written in Python. Not recommended for beginners, but this can be a powerful tool.
     sqlmap: This allows for easy discovery and exploitation of SQL injection vulnerabilities. It will not catch every bug or even
     be able to exploit some known SQLi bugs. What it will do is make your life much easier in the 80% of cases it will work for.
